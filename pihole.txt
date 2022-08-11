@@ -1,0 +1,12 @@
+0.0.0.0 cdn.jwplayer.com
+0.0.0.0 apps2.outfit7.com
+0.0.0.0 cdn.outfit7.com
+0.0.0.0 beacons.gcp.gvt2.com
+0.0.0.0 kidozplayer.com
+0.0.0.0 kidoz.net
+0.0.0.0 cdn.kidozplayer.com
+0.0.0.0 vast.kidoz.net
+0.0.0.0 x-eu.58dac16e7b2c86c19cfe48914a6e8fcdac9ae06fe5cf53369beaa45b.com
+0.0.0.0 hb-af.outfit7.com
+0.0.0.0 s.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
+0.0.0.0 x-eu.655014f4096de8fb469041e2195f59cc9e095e9370a017dbd4ab7fb4.com
